@@ -1,0 +1,21 @@
+body{
+    font: verdana, sans-serif;
+    font-size: 15px;
+    background-color: lightgrey;
+    padding: 20px;
+    color: rgb(7, 7, 191);
+    text-align: center
+
+} 
+#leftparagraph {
+ text-align:left; 
+} 
+#leftbottom {
+    text-align:left;
+} 
+#leftparagraph2{
+    text-align: center;
+} 
+h2{
+    text-align:center;
+} 
